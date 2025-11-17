@@ -1,3 +1,5 @@
 otter-grader
+joblib
+streamlit
 pandas
 numpy
