@@ -1,5 +1,9 @@
 otter-grader
-joblib
 streamlit
 pandas
 numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+
